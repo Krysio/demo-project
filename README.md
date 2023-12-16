@@ -1,4 +1,4 @@
-# Projekty systemu e-voting realizujący model demokracji płynnej oparty o blockchain
+# Projekt systemu e-voting realizujący model demokracji płynnej oparty o blockchain
 
 W przeciwieństwie do wielu projektów, struktura blockchain nie jest oparta a mechanizmy transakcyjne zaczerpnięte z krypto walut.
 
