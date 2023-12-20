@@ -13,8 +13,6 @@ Mechanizm działania jest maksymalnie prosty, tak aby był łatwy do zrozumienia
 Bloki w tym systemie tworzone są w równych odstępach czasu. Węzły nie rywalizują o wytworzenie bloku, wszystkie dążą one do uzyskania takich samych bloków ze wszystkimi danymi jakie należy w nich umieścić, a które się pojawią w sieci systemu.
 
 Transakcje, a raczej polecenia, które umieszczane są w blokach, tak jak one również zawierają odwołanie do poprzedniego bloku w łańcuchu. Dodatkowo autor polecenia musi je podpisać cyfrowo. Te dwa elementy, w połączeniu z wartościowaniem bloku w postaci liczby zawartych poleceń, zabezpiecza blockchain przed modyfikacjami oraz sprowadza konsensus do demokratycznego aktu realizowanego przez samych użytkowników systemu.
-
-Tak dokładnie polecenia nie wskazują na poprzedni blok a na ten o jeden wcześniejszy. Ten zabieg nie powinien wiele zmienić w kwestii bezpieczeństwa a wiąże się z usprawnieniem procesu osiągania konsensusu.
 #### Blockchain publiczny, ale zamknięty
 
 Aby z systemu mogły korzystać tylko osoby do tego uprawnione wymagane jest stworzenie przeznaczonej do tego infrastruktury publicznej w postaci osób pełniących funkcje urzędnicze. System przewiduje istnienie kont administratorskich, które będą poświadczać konta użytkowników wprowadzanych do systemu.
